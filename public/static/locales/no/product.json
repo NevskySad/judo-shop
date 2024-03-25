@@ -1,8 +1,0 @@
-{
-  "relatedProduct": "Relatert produkt",
-  "relatedProduct_plural": "Relaterte produkter",
-  "addToBasket": "Legg i handlekurv",
-  "buy": "KJØP",
-  "stock": "på lager: {{stockCount}}",
-  "outOfStock": "Ikke på lager"
-}
